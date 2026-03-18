@@ -17,16 +17,7 @@ It can generate human-like responses based on user input.
 - Groq API / LLM
 
 ## 📸 Demo
-![Chatbot Demo](demo.png)
-
-## ⚙️ Setup Instructions
-1. Clone the repository
-2. Install required libraries
-3. Add your own API key
-4. Run the Python file
-
-## 🔐 Note
-Add your own API key before running the project.
+https://youtu.be/ltD-5TKfcwI
 
 ## 🙌 Author
 Esha Goswami
