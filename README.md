@@ -18,6 +18,3 @@ It can generate human-like responses based on user input.
 
 ## 📸 Demo
 https://youtu.be/ltD-5TKfcwI
-
-## 🙌 Author
-Esha Goswami
